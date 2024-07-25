@@ -11,7 +11,7 @@ Bu proje, güçlü ve güvenli şifreler oluşturmanıza yardımcı olan bir Win
 
 ## Ekran Görüntüleri
 
-![Ekran Görüntüsü](./screenshot.png) <!-- Ekran görüntüsünü projenize eklemeyi unutmayın -->
+![Ekran Görüntüsü](./StrongPasswordGenerator/screenshot.png) <!-- Ekran görüntüsünü projenize eklemeyi unutmayın -->
 
 ## Kurulum ve Kullanım
 
