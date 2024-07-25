@@ -59,15 +59,5 @@ namespace StrongPasswordGenerator.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap copy_icon {
-            get {
-                object obj = ResourceManager.GetObject("copy-icon", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

@@ -95,6 +95,8 @@
             // cbSpecialChars
             // 
             this.cbSpecialChars.AutoSize = true;
+            this.cbSpecialChars.Checked = true;
+            this.cbSpecialChars.CheckState = System.Windows.Forms.CheckState.Checked;
             this.cbSpecialChars.Location = new System.Drawing.Point(6, 97);
             this.cbSpecialChars.Name = "cbSpecialChars";
             this.cbSpecialChars.Size = new System.Drawing.Size(231, 19);
